@@ -1,7 +1,7 @@
 # 🎲 Dice Game
 A fun two-player dice game built with vanilla HTML, CSS, and JavaScript. Each player rolls a dice and the one with the highest number wins the round!or it might even end up as a draw!!
 
-## 🌐 Live Demo
+
 🔗 [Play the Game!](https://13siri06.github.io/DiceGame/)
 ---
 ## 🎮 How to Play
