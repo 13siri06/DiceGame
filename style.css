@@ -42,9 +42,9 @@ button {
   display: block;
   margin: 20px auto;
   padding: 15px 40px;
-  font-size: 2rem;
+  font-size: 1rem;
   font-family: 'Lobster', cursive;
-  background-color: #e74c3c;
+  background-color: #4a7a60;
   color: white;
   border: none;
   border-radius: 10px;
@@ -53,7 +53,7 @@ button {
 }
 
 button:hover {
-  background-color: #c0392b;
+  background-color: #374666;
   transform: scale(1.05);
   transition: all 0.2s ease-in-out;
 }
