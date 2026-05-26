@@ -39,3 +39,35 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+button {
+  display: block;
+  margin: 20px auto;
+  padding: 15px 40px;
+  font-size: 2rem;
+  font-family: 'Lobster', cursive;
+  background-color: #e74c3c;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  letter-spacing: 2px;
+}
+button {
+  display: block;
+  margin: 20px auto;
+  padding: 15px 40px;
+  font-size: 2rem;
+  font-family: 'Lobster', cursive;
+  background-color: #e74c3c;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  letter-spacing: 2px;
+}
+
+button:hover {
+  background-color: #c0392b;
+  transform: scale(1.05);
+  transition: all 0.2s ease-in-out;
+}
