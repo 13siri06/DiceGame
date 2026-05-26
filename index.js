@@ -1,4 +1,4 @@
-document.querySelector("h1").addEventListener("click", function () {
+document.querySelector("button").addEventListener("click", function () {
 
   // 🎲 Player 1 - Generate random dice number and update image
   var randomNumber1 = Math.floor(Math.random() * 6) + 1;
